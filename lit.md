@@ -1,4 +1,4 @@
-Literate Programming und Dynamisches Publizieren
+# Literate Programming und Dynamisches Publizieren
 
 eingereicht von Tino Fritsch, Gruppe II (05.03.2020)
 
@@ -215,7 +215,7 @@ Open Review, Open Metrics, Open Science & Open Knowledge. in: Herb U
 (Hrsg.) Open Initiatives: Offenheit in der digitalen Welt und
 Wissenschaft. universaar 2012
 
-\[3\] Knuth DE (1984) Literate Programming. T*he Computer Journal*,
+\[3\] Knuth DE (1984) Literate Programming. *The Computer Journal*,
 Volume 27, Issue 2. <https://doi.org/10.1093/comjnl/27.2.97>
 
 \[4\] Childs B (1991) Literate Programming, why? Texas A&M University.
